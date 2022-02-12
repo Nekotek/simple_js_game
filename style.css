@@ -13,6 +13,11 @@
 .player2{
   float: left;
 }
+.playerheading{
+  font-family: "Nunito";
+  font-size: 1rem;
+  color:#34A7B2;
+}
 /* Div centering / Clearing floats*/
 div{
   margin:0 auto;
@@ -25,7 +30,7 @@ div{
 .footertext{
   margin-top: 50px;
   font-family: "Nunito";
-  font-size: 0.75srem;
+  font-size: 0.75rem;
   color:#34A7B2;
 }
 a{
