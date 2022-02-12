@@ -1,0 +1,34 @@
+/*Title bar*/
+.title{
+  font-family: "Nunito";
+  font-size: 5rem;
+  color:#34A7B2;
+  font-weight: 700;
+  margin:2.5rem;
+}
+/* Player */
+.player1{
+  float: right;
+}
+.player2{
+  float: left;
+}
+/* Div centering / Clearing floats*/
+div{
+  margin:0 auto;
+  text-align: center;
+}
+.clr{
+  clear:both;
+}
+/* Links and footer stuff */
+.footertext{
+  margin-top: 50px;
+  font-family: "Nunito";
+  font-size: 0.75srem;
+  color:#34A7B2;
+}
+a{
+  margin:10px;
+  color:#34A7B2;
+}
