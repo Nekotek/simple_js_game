@@ -1,1 +1,1 @@
-# dicee-game-priv
+A simple game using JavaScript/HTML/CSS
